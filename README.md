@@ -14,7 +14,7 @@ This workshop will cover the following topics:
 7. Collaborative Workflow
 
 ### What do you need for the workshop?
-1. Web browser
+1. Web browser to access GitHub
 2. Email address for account creation
 3. Terminal (mac/linux) / cmd or PowerShell (windows)
 4. Some type of text editor or IDE (Visual Studio, Sublime, Atom, PyCharm, etc.)
