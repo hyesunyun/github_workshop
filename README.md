@@ -52,9 +52,9 @@ The command line is a text-based interface for interacting with your computer, a
 ## Git Configuration
 Run the following commands to configure your Git. You only need to do this once.
 
-```
-git config --global user.name "Your Name" # Set the name that will be attached to your commits
-git config --global user.email "your@email.com" # Set the email that will be attached to your commits
+```sh
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
 ```
 
 ## Basic Git Commands & Tips
