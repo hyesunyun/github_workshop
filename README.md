@@ -42,7 +42,8 @@ The command line is a text-based interface for interacting with your computer, a
 
 ### File and Directory Management
 - `ls` (**list files**): Shows the contents of the current directory. 
-  - `ls -l`: Provides a detailed listing with permissions, size, and modification dates. 
+  - `ls -a`: Shows the contents of the current directory *including hidden files and directories*.
+  - `ls -l`: Provides a detailed listing with permissions, size, and modification dates.
 - `mkdir` (**make directory**): Creates a new directory. 
   - `mkdir -p ./workspace/docs`: Creates the "docs" directory and its parent directory "workspace" if they don't exist. 
 - `rm` (**remove**): Deletes files or directories. 
